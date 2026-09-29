@@ -1,5 +1,5 @@
 # Django-Project
-### Implementing a video sharing website with Django
+### Implementing a Video Sharing Website with Django
 
 ##### Introduction and Project Setup
 ##### Creating a Custom User
