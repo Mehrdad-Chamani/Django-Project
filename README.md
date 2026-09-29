@@ -1,10 +1,10 @@
 # Django-Project
-Implementing a video sharing website with Django
+## Implementing a video sharing website with Django
 
-     مقدمه و ساخت پروژه
-     ایجاد کاربر سفارشی
-     بارگزاری ویدئوها
-     لایک روی ویدئو
-     نظردهی روی ویدئو
-     پاسخ دهی به نظرات
-     آپلود پروژه روی هاست
+### Introduction and Project Setup
+### Creating a Custom User
+### Loading Videos
+### Liking Videos
+### Commenting on Videos
+### Replying to Comments
+### Deploying the Project to a Host
